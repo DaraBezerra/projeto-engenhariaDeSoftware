@@ -32,7 +32,7 @@ Ao longo da narrativa..........
 
 ## 🧠 Tema
 
-á definir
+PULL REQUEST: SALVAR O MUNDO
 
 ---
 
@@ -40,7 +40,19 @@ Ao longo da narrativa..........
 
 ### 🟦 Introdução
 
-á definir
+A história começa quando a lógica da cidade entra em colapso: semáforos param de obedecer às leis de trânsito e eletrodomésticos inteligentes começam a agir por conta própria. Por trás desse caos está o Bugão, uma entidade feita de código corrompido que se alimenta da desordem sistêmica.
+Para salvar o mundo, entra em cena uma equipe de especialistas (e amigos) com métodos bem distintos:
+•	Rafa: O líder que tenta manter a ordem através de metodologias ágeis (Scrum), mesmo quando o mundo está acabando.
+•	Léo: O programador otimista que acredita que "na máquina dele funciona", mesmo que o resto do planeta discorde.
+•	Bia: A revisora rigorosa que não deixa passar um código mal escrito, nem mesmo no meio de uma batalha.
+•	NINA: Uma IA assistente com soluções... digamos, drásticas demais.
+O Conflito Central
+A narrativa foca na tentativa da equipe de organizar o caos usando um quadro Kanban e abrindo o "Pull Request" definitivo para salvar a humanidade. Entre sugestões absurdas da IA (como reiniciar o planeta) e discussões sobre a estética do código, eles conseguem aplicar o Merge Final, restaurando a paz.
+O Tom da História
+É uma sátira inteligente sobre a cultura de desenvolvimento de software. O final reforça a maior verdade da tecnologia: um bug nunca vem sozinho. No momento em que celebram a vitória, um novo erro aparece, garantindo que o trabalho dos Debugadores nunca termina.
+________________________________________
+Uma jornada épica onde o maior vilão não é um monstro, mas um erro de sintaxe que pode apagar a existência!
+
 
 ### 🟦 Desenvolvimento
 

@@ -42,17 +42,17 @@ PULL REQUEST: SALVAR O MUNDO
 
 PULL REQUEST: SALVAR O MUNDO
 
-📖 Sinopse
+  📖 Sinopse
 A história começa quando a lógica da cidade entra em colapso: semáforos ignoram as leis de trânsito e eletrodomésticos inteligentes começam a agir por conta própria. Por trás desse caos está o Bugão, uma entidade feita de código corrompido que se alimenta da desordem sistêmica.
 
 Para salvar o mundo, uma equipe de especialistas (e amigos) entra em cena para aplicar o "Pull Request" definitivo e restaurar a paz através do Merge Final.
 
-🎭 Informações Gerais
+  🎭 Informações Gerais
 Gênero: Sátira / Ficção Científica Tecnológica
 
 Tom: Humor inteligente sobre a cultura de desenvolvimento de software e metodologias ágeis.
 
-👥 Personagens
+  👥 Personagens
 Rafa (O Líder): Tenta manter a ordem através de metodologias ágeis (Scrum), mesmo quando o mundo está acabando.
 
 Léo (O Programador): O eterno otimista que jura que "na máquina dele funciona", independentemente do colapso global.
@@ -61,7 +61,7 @@ Bia (A Revisora): Rigorosa e implacável, não deixa passar um código mal escri
 
 NINA (A IA): Uma assistente com soluções... digamos, drásticas demais (como sugerir o reboot do planeta).
 
-🛠️ O Conflito Central
+  🛠️ O Conflito Central
 A narrativa foca no uso de ferramentas do dia a dia de um dev para combater o mal:
 
 Organização do caos via Quadro Kanban.

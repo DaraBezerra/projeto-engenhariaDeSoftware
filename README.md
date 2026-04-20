@@ -1,4 +1,4 @@
-# 🎨 Nome do jogo á definir
+# 🎨 Nome do jogo a definir
 
 ## 👥 Integrantes
 

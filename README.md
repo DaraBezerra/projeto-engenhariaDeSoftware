@@ -30,59 +30,108 @@ Ao longo da narrativa..........
 
 ---
 
-## 🧠 Tema
+🧠 PULL REQUEST: SALVAR O MUNDO
 
-PULL REQUEST: SALVAR O MUNDO
+📖 Sinopse
 
----
+A cidade entra em colapso quando sistemas inteligentes começam a falhar: semáforos ignoram regras, eletrodomésticos se rebelam e a tecnologia foge do controle humano.
 
-## 🧩 Estrutura Inicial da História (HQ)
+Por trás disso está Bugão, uma entidade formada por código corrompido que se alimenta da desordem dos sistemas.
 
-### 🟦 Introdução
+Para restaurar a ordem, uma equipe de desenvolvedores precisa agir rápido e aplicar o Pull Request definitivo, enfrentando conflitos técnicos e pessoais até alcançar o tão esperado Merge Final.
 
-PULL REQUEST: SALVAR O MUNDO
-
-  📖 Sinopse
-A história começa quando a lógica da cidade entra em colapso: semáforos ignoram as leis de trânsito e eletrodomésticos inteligentes começam a agir por conta própria. Por trás desse caos está o Bugão, uma entidade feita de código corrompido que se alimenta da desordem sistêmica.
-
-Para salvar o mundo, uma equipe de especialistas (e amigos) entra em cena para aplicar o "Pull Request" definitivo e restaurar a paz através do Merge Final.
-
-  🎭 Informações Gerais
+🎭 Informações Gerais
 Gênero: Sátira / Ficção Científica Tecnológica
+Tom: Humor inteligente com referências ao mundo da programação
+Formato: História em Quadrinhos (HQ)
+👥 Personagens
+👨‍💼 Rafa (O Líder)
 
-Tom: Humor inteligente sobre a cultura de desenvolvimento de software e metodologias ágeis.
+Responsável por organizar a equipe usando metodologias ágeis (Scrum). Mesmo com o caos instalado, insiste em manter reuniões e planejamento.
 
-  👥 Personagens
-Rafa (O Líder): Tenta manter a ordem através de metodologias ágeis (Scrum), mesmo quando o mundo está acabando.
+👨‍💻 Léo (O Programador)
 
-Léo (O Programador): O eterno otimista que jura que "na máquina dele funciona", independentemente do colapso global.
+O otimista da equipe. Sempre diz que “na máquina dele funciona”, mesmo quando tudo claramente está quebrando.
 
-Bia (A Revisora): Rigorosa e implacável, não deixa passar um código mal escrito, nem mesmo no calor da batalha.
+👩‍💻 Bia (A Revisora)
 
-NINA (A IA): Uma assistente com soluções... digamos, drásticas demais (como sugerir o reboot do planeta).
+Extremamente rigorosa com qualidade de código. Não aprova nada sem revisão detalhada — nem durante o apocalipse.
 
-  🛠️ O Conflito Central
-A narrativa foca no uso de ferramentas do dia a dia de um dev para combater o mal:
+🤖 NINA (A IA)
 
-Organização do caos via Quadro Kanban.
+Assistente inteligente com soluções rápidas e eficientes… porém muitas vezes exageradas, como sugerir reiniciar todo o sistema mundial.
 
-Discussões acaloradas sobre a estética do código.
+👾 Bugão (Antagonista)
 
-A luta contra o Bugão e a necessidade de um deploy perfeito.
+Uma entidade digital criada a partir de códigos corrompidos. Se fortalece com erros, bugs e sistemas mal estruturados.
 
-A Grande Verdade: Um bug nunca vem sozinho. No momento da celebração, um novo erro aparece, provando que o trabalho de um Debugador nunca termina.
+🛠️ Conflito Central
 
+A equipe precisa enfrentar o Bugão utilizando conceitos do dia a dia de desenvolvimento:
 
+Organização do caos com Quadro Kanban
+Discussões sobre qualidade e padrões de código
+Tentativas de realizar um deploy estável
+Revisões rigorosas antes do merge
+Trabalho em equipe sob pressão
 
-### 🟦 Desenvolvimento
+Mensagem principal:
 
-á definir
+Um bug nunca vem sozinho — e o trabalho de um desenvolvedor nunca termina.
 
+🟦 Estrutura da História (HQ)
+🟢 Introdução
 
-### 🟦 Desfecho (em aberto)
+A cidade começa a apresentar falhas estranhas. Sistemas automatizados deixam de funcionar corretamente e o caos se instala.
 
-á definir
----
+Rafa reúne a equipe e organiza as tarefas em um quadro Kanban. NINA identifica um padrão incomum nos erros: todos levam a uma mesma origem.
+
+O nome do problema aparece pela primeira vez: Bugão.
+
+🟡 Desenvolvimento
+
+A equipe inicia a investigação e tenta resolver os problemas:
+
+Léo tenta corrigir bugs rapidamente, mas ignora testes
+Bia reprova várias soluções por falta de qualidade
+Rafa tenta manter a organização com sprints e reuniões
+NINA sugere soluções cada vez mais radicais
+
+Enquanto isso, Bugão cresce e começa a afetar sistemas mais críticos.
+
+Após várias falhas, a equipe descobre que o Bugão surgiu de um código antigo mal documentado que foi reutilizado sem revisão.
+
+A única solução possível: criar um Pull Request definitivo, corrigindo a raiz do problema.
+
+🔴 Clímax
+
+A equipe trabalha junta para desenvolver a solução final:
+
+Bia revisa cada linha de código
+Léo corrige erros sob pressão
+Rafa coordena o processo
+NINA calcula riscos e sugere melhorias
+
+Durante o deploy, Bugão tenta corromper o sistema novamente.
+
+Após momentos de tensão…
+➡️ Merge realizado com sucesso.
+
+🔵 Desfecho
+
+Os sistemas voltam ao normal e a cidade é restaurada.
+
+A equipe comemora o sucesso da missão.
+
+Mas, na cena final…
+
+Um pequeno erro aparece na tela:
+
+Warning: unexpected behavior detected...
+
+A equipe se entreolha.
+
+Fim… ou apenas o próximo commit?
 
 ## 📊 Metodologia
 

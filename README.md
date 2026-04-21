@@ -4,7 +4,7 @@
 
 * Dara Bezerra Lima
 * Celiane dos Santos Ferreira Carrareto
-* Raphael Oliveira Tavares
+* 
 * 
 *
 
@@ -64,6 +64,7 @@ Mensagem principal:
 Um bug nunca vem sozinho — e o trabalho de um desenvolvedor nunca termina.
 
 🟦 Estrutura da História (HQ)
+
 🟢 Introdução
 
 A cidade começa a apresentar falhas estranhas. Sistemas automatizados deixam de funcionar corretamente e o caos se instala.

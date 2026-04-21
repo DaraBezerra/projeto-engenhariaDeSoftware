@@ -14,22 +14,6 @@
 
 Este projeto consiste no desenvolvimento colaborativo de uma história em quadrinhos utilizando ferramentas de IA generativa e metodologias ágeis (SCRUM e Kanban).
 
-A história se passa.......
-
-Ao longo da narrativa..........
-
----
-
-## 🎯 Objetivos
-
-* Aplicar conceitos de SCRUM e Kanban em um projeto prático
-* Desenvolver uma história em quadrinhos de forma colaborativa
-* Utilizar IA generativa para criação de roteiro e imagens
-* Praticar versionamento de código com GitHub
-* Trabalhar com desenvolvimento iterativo e incremental
-
----
-
 🧠 PULL REQUEST: SALVAR O MUNDO
 
 📖 Sinopse
@@ -131,7 +115,19 @@ Warning: unexpected behavior detected...
 
 A equipe se entreolha.
 
-Fim… ou apenas o próximo commit?
+Fim… ou apenas o próximo commit?.
+
+---
+
+## 🎯 Objetivos
+
+* Aplicar conceitos de SCRUM e Kanban em um projeto prático
+* Desenvolver uma história em quadrinhos de forma colaborativa
+* Utilizar IA generativa para criação de roteiro e imagens
+* Praticar versionamento de código com GitHub
+* Trabalhar com desenvolvimento iterativo e incremental
+
+---
 
 ## 📊 Metodologia
 

@@ -1,4 +1,4 @@
-# 🎨 Nome do jogo a definir
+# Equipe Debug Squad
 
 ## 👥 Integrantes
 

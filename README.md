@@ -17,7 +17,9 @@ Este projeto consiste no desenvolvimento colaborativo de uma história em quadri
 
 🧠 PULL REQUEST: SALVAR O MUNDO
 
-📖 Sinopse
+---
+
+## 📖 Sinopse
 
 A cidade entra em colapso quando sistemas inteligentes começam a falhar: semáforos ignoram regras, eletrodomésticos se rebelam e a tecnologia foge do controle humano.
 
@@ -25,11 +27,16 @@ Por trás disso está Bugão, uma entidade formada por código corrompido que se
 
 Para restaurar a ordem, uma equipe de desenvolvedores precisa agir rápido e aplicar o Pull Request definitivo, enfrentando conflitos técnicos e pessoais até alcançar o tão esperado Merge Final.
 
-🎭 Informações Gerais
-Gênero: Sátira / Ficção Científica Tecnológica
-Tom: Humor inteligente com referências ao mundo da programação
-Formato: História em Quadrinhos (HQ)
-👥 Personagens
+---
+
+## 🎭 Informações Gerais
+
+Gênero: Sátira, Ficção Científica. 
+História em Quadrinhos com referências ao mundo da programação.
+
+---
+
+## 👥 Personagens
 👨‍💼 Rafa (O Líder)
 
 Responsável por organizar a equipe usando metodologias ágeis (Scrum). Mesmo com o caos instalado, insiste em manter reuniões e planejamento.
@@ -50,7 +57,9 @@ Assistente inteligente com soluções rápidas e eficientes… porém muitas vez
 
 Uma entidade digital criada a partir de códigos corrompidos. Se fortalece com erros, bugs e sistemas mal estruturados.
 
-🛠️ Conflito Central
+---
+
+## 🛠️ Conflito Central
 
 A equipe precisa enfrentar o Bugão utilizando conceitos do dia a dia de desenvolvimento:
 

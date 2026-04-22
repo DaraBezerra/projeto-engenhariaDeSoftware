@@ -4,9 +4,6 @@
 
 * Dara Bezerra Lima
 * Celiane dos Santos Ferreira Carrareto
-* Raphael Oliveira Tavares
-* Marcus Vinicius de Oliveira Silva
-* William Gonçalves Pecini
 
 
 ---

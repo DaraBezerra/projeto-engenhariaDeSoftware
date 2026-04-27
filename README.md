@@ -1,3 +1,4 @@
+
 # Equipe Debug Squad
 
 ## 👥 Integrantes
@@ -54,6 +55,10 @@ Assistente inteligente com soluções rápidas e eficientes… porém muitas vez
 👾 Bugão (Antagonista)
 
 Uma entidade digital criada a partir de códigos corrompidos. Se fortalece com erros, bugs e sistemas mal estruturados.
+
+Abaixo os personagens
+
+<img width="500" height="300" alt="personagens" src="https://github.com/user-attachments/assets/ab09d32c-050c-4c27-a530-c0fdf610d8b1" />
 
 ---
 
